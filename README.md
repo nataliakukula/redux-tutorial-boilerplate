@@ -1,5 +1,5 @@
-Tutorial grabbed from https://github.com/buckyroberts/React-Redux-Boilerplate
-2016 version, updated to create-react-app
+# Tutorial grabbed from https://github.com/buckyroberts/React-Redux-Boilerplate
+# 2016 version, updated to create-react-app
 
 ![](http://i.imgur.com/DUiL9yn.png)
 
