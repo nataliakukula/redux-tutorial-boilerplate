@@ -9,7 +9,7 @@ export default function () {
       thumbnail: "https://randomuser.me/api/portraits/men/44.jpg"
     },
     {
-      id: 1,
+      id: 2,
       first: "Jen",
       last: "Kale",
       age: 13,
@@ -17,7 +17,7 @@ export default function () {
       thumbnail: "https://randomuser.me/api/portraits/women/90.jpg"
     },
     {
-      id: 1,
+      id: 3,
       first: "Mark",
       last: "Twain",
       age: 99,
