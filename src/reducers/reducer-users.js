@@ -1,4 +1,5 @@
 export default function () {
+  //we don't want to do anything with this data
   return [
     {
       id: 1,

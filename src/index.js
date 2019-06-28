@@ -7,9 +7,13 @@ import {Provider} from 'react-redux';
 import {createStore} from 'redux';
 import allReducers from './reducers';
 
+//create a top level object which stores
+//all the state/data kept in the app
+// createStore is a redux function that makes the object for us
 const store = createStore(allReducers);
 
 ReactDOM.render(
+    //Provider is a connects the stored data with our app
     <Provider store={store}>
         <App />
     </Provider>,
